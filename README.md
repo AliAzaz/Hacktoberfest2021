@@ -3,13 +3,14 @@
 
 <div align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-      <img src="https://img.shields.io/badge/Hacktoberfest%202020-Win%20T--Shirt-critical"></img>
+      <img src="https://img.shields.io/badge/Hacktoberfest%202021-Win%20T--Shirt-yellow"></img>
     </a>
     <a href="https://github.com/aliazaz/Hacktoberfest2021/fork">
-            <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
+        <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
     </a>
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></img> 
-    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></img>
+    
+        <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></img>
+   
 </div>
 
   

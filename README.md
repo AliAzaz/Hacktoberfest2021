@@ -25,7 +25,7 @@
 
 ## Do you know what is Hacktoberfest?
 
-> Can you please help me in writing this???????? // Start your PR from here.
+Hacktoberfest is a month-long celebration of open source! It encourages participation in the open source community by completing pull requests and contributing to open source repositories.
 
 ***
 ## How to contribute?

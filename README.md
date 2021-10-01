@@ -17,7 +17,7 @@
   
 <br> 
 <div align="left"><p><a href="https://medium.com/@ali.azaz.alam/what-is-hacktoberfest-opensoure-2021-935b3dc8a6be"><img alt="New" align="center" src="https://img.shields.io/badge/%F0%9F%93%84%20-Note-green.svg" /></a>&nbsp;
-<b>This is sample repository to learn how to generate your first PR. The PR's generates on this repository will not be count in Hacktoberfest 2021 challenge. A guide What is Hacktoberfest & Opensoure is now published. You can <a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68">read it from here. →</a>.
+<b>This is sample repository to learn how to generate your first PR. The PR's generates on this repository will not be count in Hacktoberfest 2021 challenge. A guide What is Hacktoberfest & Opensoure is now published. You can <a href="https://medium.com/@ali.azaz.alam/what-is-hacktoberfest-opensoure-2021-935b3dc8a6be">read it from here. →</a>.
 </b>
 </div>  
 

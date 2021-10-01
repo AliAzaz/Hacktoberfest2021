@@ -8,9 +8,8 @@
     <a href="https://github.com/aliazaz/Hacktoberfest2021/fork">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
     </a>
-    
-        <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></img>
-   
+    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></img>
+  
 </div>
 
   
